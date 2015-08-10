@@ -1,0 +1,26 @@
+{
+  "name": "scrollify",
+  "version": "1.0.0",
+  "description": "Make HTML tables scrollable across browsers with jQuery",
+  "main": "scrollify.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wankdanker/jquery-scrollify"
+  },
+  "keywords": [
+    "jquery-plugin",
+    "ecosystem:jquery",
+    "table",
+    "scroll",
+    "tbody"
+  ],
+  "author": "Dan VerWeire",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wankdanker/jquery-scrollify/issues"
+  },
+  "homepage": "https://github.com/wankdanker/jquery-scrollify"
+}
